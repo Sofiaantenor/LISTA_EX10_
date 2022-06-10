@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "AMS_Ex8_22_/1.0.0": {
+        "runtime": {
+          "AMS_Ex8_22_.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AMS_Ex8_22_/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
