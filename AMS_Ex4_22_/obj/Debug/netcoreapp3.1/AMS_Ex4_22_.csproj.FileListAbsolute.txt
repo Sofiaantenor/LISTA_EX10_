@@ -1,0 +1,13 @@
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\bin\Debug\netcoreapp3.1\AMS_Ex4_22_.exe
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\bin\Debug\netcoreapp3.1\AMS_Ex4_22_.deps.json
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\bin\Debug\netcoreapp3.1\AMS_Ex4_22_.runtimeconfig.json
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\bin\Debug\netcoreapp3.1\AMS_Ex4_22_.runtimeconfig.dev.json
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\bin\Debug\netcoreapp3.1\AMS_Ex4_22_.dll
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\bin\Debug\netcoreapp3.1\AMS_Ex4_22_.pdb
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\obj\Debug\netcoreapp3.1\AMS_Ex4_22_.csprojAssemblyReference.cache
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\obj\Debug\netcoreapp3.1\AMS_Ex4_22_.AssemblyInfoInputs.cache
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\obj\Debug\netcoreapp3.1\AMS_Ex4_22_.AssemblyInfo.cs
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\obj\Debug\netcoreapp3.1\AMS_Ex4_22_.csproj.CoreCompileInputs.cache
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\obj\Debug\netcoreapp3.1\AMS_Ex4_22_.dll
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\obj\Debug\netcoreapp3.1\AMS_Ex4_22_.pdb
+D:\ETEC_2\JEFERSON\ListaDeAtvs\AMS_Ex4_22_\obj\Debug\netcoreapp3.1\AMS_Ex4_22_.genruntimeconfig.cache
